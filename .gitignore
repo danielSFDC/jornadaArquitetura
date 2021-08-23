@@ -39,3 +39,5 @@ $RECYCLE.BIN/
 
 # Local environment variables
 .env
+config/project-scratch-def.json
+assets/data/Broker__c-Property__c.json
